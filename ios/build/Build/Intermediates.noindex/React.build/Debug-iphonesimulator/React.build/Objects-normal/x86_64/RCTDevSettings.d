@@ -1,0 +1,23 @@
+dependencies: \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/pandora/GIT/testApium/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/pandora/GIT/testApium/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/pandora/GIT/testApium/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h

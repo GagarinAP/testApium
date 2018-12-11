@@ -1,0 +1,31 @@
+{
+  "name": "testApium",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test:ios": "jest ios",
+    "test:android": "jest android",
+    "appium": "appium",
+    "appium:doctor": "appium-doctor"
+  },
+  "dependencies": {
+    "react": "16.6.1",
+    "react-native": "0.57.7"
+  },
+  "devDependencies": {
+    "appium": "^1.10.0",
+    "appium-doctor": "^1.6.0",
+    "babel-jest": "23.6.0",
+    "jest": "23.6.0",
+    "metro-react-native-babel-preset": "0.50.0",
+    "react-test-renderer": "16.6.1",
+    "wd": "^1.11.1"
+  },
+  "jest": {
+    "preset": "react-native",
+    "transform": {
+      "^.+\\.(js)$": "<rootDir>/node_modules/react-native/jest/preprocessor.js"
+    }
+  }
+}
